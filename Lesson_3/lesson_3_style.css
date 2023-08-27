@@ -1,0 +1,50 @@
+.first_cycle {
+    height: 6vh;
+    width: 50vw;
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1vh;
+}
+.second_cycle {
+    height: 5vh;
+    width: 50vw;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1vh;
+    border: 1px solid black;
+}
+.index{
+    font-size: 20px;
+    font-family: "Bookman Old Style", sans-serif;
+}
+.centered_list{
+    height: 30vh;
+    max-width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.product_table{
+   height: auto;
+   width: 100vw;
+   display: flex;
+    justify-content: space-around;
+   flex-wrap: wrap;
+}
+.product-card{
+    height: 30vh;
+    width: 20vw;
+}
+.product-image{
+    max-height: 25vh;
+    max-width: 25vw;
+}
+.array_of_users{
+    height: auto;
+    width: 100vw;
+   margin-top: 6vh;
+}
