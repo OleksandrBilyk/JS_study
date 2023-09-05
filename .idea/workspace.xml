@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c961aea2-7001-4915-9683-108ebd0c4760" name="Changes" comment="lesson4 done+ lesson3 error fixed">
-      <change afterPath="$PROJECT_DIR$/Lesson_5/lesson_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_5/lesson_5.js" afterDir="false" />
+    <list default="true" id="c961aea2-7001-4915-9683-108ebd0c4760" name="Changes" comment="lesson5 done">
+      <change afterPath="$PROJECT_DIR$/Lesson_6/lesson6_task_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6/lesson_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6/lesson_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6/lesson_6_task2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6/lesson_6_task_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_6/lesson_6task_2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -43,7 +49,9 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -58,7 +66,7 @@
       <workItem from="1692180854617" duration="1740000" />
       <workItem from="1692183362997" duration="749000" />
       <workItem from="1692196484532" duration="336000" />
-      <workItem from="1692197041397" duration="66574000" />
+      <workItem from="1692197041397" duration="93293000" />
     </task>
     <task id="LOCAL-00001" summary="lesson1 done">
       <option name="closed" value="true" />
@@ -100,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693463767124</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lesson5 done">
+      <option name="closed" value="true" />
+      <created>1693503424055</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693503424055</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +139,7 @@
     <MESSAGE value="lesson3 done" />
     <MESSAGE value="lesson4 done" />
     <MESSAGE value="lesson4 done+ lesson3 error fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson4 done+ lesson3 error fixed" />
+    <MESSAGE value="lesson5 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson5 done" />
   </component>
 </project>
