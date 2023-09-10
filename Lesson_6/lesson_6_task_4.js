@@ -80,7 +80,7 @@ function filter_model_word (array, predicateFn) {
     return filterArr;
 }
 //--написати пошук всіх об'єктів, в який в modules є sass
-console.log(filter_model_word(coursesArray,  (item) => item === 'sass'));
+console.log(coursesArray.filter((item) => item.modules.includes('sass')));
 
 //--написати пошук всіх об'єктів, в який в modules є docker
-console.log(filter_model_word(coursesArray, (item) => item === 'docker'));
+console.log(coursesArray.filter((item) => item.modules.includes('docker')));

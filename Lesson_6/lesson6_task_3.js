@@ -44,7 +44,7 @@ function filter(array, predicateFn) {
     console.log(filter(desk_card, (item) => item.card_suit === 'diamond'));
 
 // - всі трефи від 9 та більше
-    console.log(filter(desk_card, (item) => item.card_suit === 'clubs' && item.value > '8'));
+    console.log(filter(desk_card, (item) => item.card_suit === 'clubs' && ['9', '10', 'ace','jack','queen','king'].includes(item.value)));
 
 //Взяти описану колоду карт, та за допомоги reduce упакувати всі карти по "мастях" в об'єкт
     console.log(desk_card.reduce((accumulator, card) => {

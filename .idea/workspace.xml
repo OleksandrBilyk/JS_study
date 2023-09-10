@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c961aea2-7001-4915-9683-108ebd0c4760" name="Changes" comment="lesson5 done">
-      <change afterPath="$PROJECT_DIR$/Lesson_6/lesson6_task_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_6/lesson_6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_6/lesson_6.js" afterDir="false" />
+    <list default="true" id="c961aea2-7001-4915-9683-108ebd0c4760" name="Changes" comment="lesson6 done">
       <change afterPath="$PROJECT_DIR$/Lesson_6/lesson_6_task2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_6/lesson_6_task_4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_6/lesson_6task_2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_6/lesson6_task_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_6/lesson6_task_3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_6/lesson_6_task_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_6/lesson_6_task_4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,24 +34,24 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.1.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +63,8 @@
       <workItem from="1692180854617" duration="1740000" />
       <workItem from="1692183362997" duration="749000" />
       <workItem from="1692196484532" duration="336000" />
-      <workItem from="1692197041397" duration="93293000" />
+      <workItem from="1692197041397" duration="94374000" />
+      <workItem from="1694361135131" duration="971000" />
     </task>
     <task id="LOCAL-00001" summary="lesson1 done">
       <option name="closed" value="true" />
@@ -116,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693503424055</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lesson6 done">
+      <option name="closed" value="true" />
+      <created>1693939638154</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693939638154</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +146,7 @@
     <MESSAGE value="lesson4 done" />
     <MESSAGE value="lesson4 done+ lesson3 error fixed" />
     <MESSAGE value="lesson5 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson5 done" />
+    <MESSAGE value="lesson6 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson6 done" />
   </component>
 </project>
