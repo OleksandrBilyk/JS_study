@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c961aea2-7001-4915-9683-108ebd0c4760" name="Changes" comment="lesson6 done">
+    <list default="true" id="c961aea2-7001-4915-9683-108ebd0c4760" name="Changes" comment="lesson6 done+ rework problems">
       <change afterPath="$PROJECT_DIR$/Lesson_6/lesson_6_task2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_8/lesson_8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_8/lesson_8_task_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_8/lesson_8_task_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_8/lesson_8_task_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_8/lesson_8_task_4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_6/lesson6_task_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_6/lesson6_task_3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_6/lesson_6_task_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_6/lesson_6_task_4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="TypeScript File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -64,7 +67,7 @@
       <workItem from="1692183362997" duration="749000" />
       <workItem from="1692196484532" duration="336000" />
       <workItem from="1692197041397" duration="94374000" />
-      <workItem from="1694361135131" duration="971000" />
+      <workItem from="1694361135131" duration="21170000" />
     </task>
     <task id="LOCAL-00001" summary="lesson1 done">
       <option name="closed" value="true" />
@@ -122,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693939638154</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="lesson6 done+ rework problems">
+      <option name="closed" value="true" />
+      <created>1694362272056</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694362272056</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +158,7 @@
     <MESSAGE value="lesson4 done+ lesson3 error fixed" />
     <MESSAGE value="lesson5 done" />
     <MESSAGE value="lesson6 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson6 done" />
+    <MESSAGE value="lesson6 done+ rework problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson6 done+ rework problems" />
   </component>
 </project>
