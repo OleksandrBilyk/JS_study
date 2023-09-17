@@ -1,0 +1,80 @@
+.alpha{
+    height: 30vh;
+    width: 50vw;
+}
+.table{
+    height: 40vh;
+    width: 40vw;
+    background-color: darkslateblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.userInfoDiv{
+    margin: 20px;
+}
+.course_card{
+    height: 94vh;
+    width: 98vw;
+    border: black 1px solid;
+    margin: 3vh 1vw;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.title{
+    height: 10vh;
+    width: 96vw;
+    border: chocolate 3px solid;
+    margin: 2vh 1vw;
+    border-radius: 30px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title>h3{
+    font-size: 2em;
+    font-family: "Baskerville Old Face", sans-serif;
+}
+.Duration{
+    height: 10vh;
+    width: 96vw;
+    margin: 2vh 1vw;
+    display: flex;
+}
+.monthDuration{
+    height: 8vh;
+    width: 47vw;
+    margin: 2vh 1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hourDuration{
+    height: 8vh;
+    width: 47vw;
+    margin: 2vh 1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h4{
+    font-size: 1.6em;
+}
+.modules{
+    height: 50vh;
+    width: 40vw;
+    border: firebrick 2px solid;
+    background-color: lightsteelblue;
+    margin: 2vh 1vw;
+    border-radius: 40px 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.modules>ul>li{
+    font-size: 1.5em;
+    font-family: "Britannic Bold", sans-serif;
+}
