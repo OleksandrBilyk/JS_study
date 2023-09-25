@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    margin: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form_table{
+    height: 20vh;
+    width: 24vw;
+    border:  black 2px ridge;
+    display: flex;
+    flex-direction: column;
+    margin: 10vh 40vw;
+    justify-content: center;
+    align-items: center;
+
+}
+form {
+    height: 20vh;
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.create_user{
+    height: 10vh;
+    width: 50vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: black 2px solid;
+    background-color: lightsalmon;
+    margin-bottom: 1vh;
+}
+h3{
+    font-size: 1.2em;
+}

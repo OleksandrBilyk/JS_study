@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c961aea2-7001-4915-9683-108ebd0c4760" name="Changes" comment="lesson8 done">
+    <list default="true" id="c961aea2-7001-4915-9683-108ebd0c4760" name="Changes" comment="lesson9 done">
+      <change afterPath="$PROJECT_DIR$/Lesson_10/task_1/lesson_10_task1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_10/task_1/lesson_10_task_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_10/task_1/lesson_10_task_1.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Lesson_6/lesson_6_task2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_9/lesson_9.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_9/lesson_9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_9/lesson_9_task_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_9/lesson_9_task_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_9/lesson_9_task_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_9/lesson_9_task_4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_8/lesson_8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_8/lesson_8.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +21,8 @@
       <list>
         <option value="TypeScript File" />
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -48,6 +44,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/OWU_study/My_hometask/JS/JS_study/Lesson_9",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -59,6 +56,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OWU_study\My_hometask\JS\JS_study\Lesson_9" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OWU_study\My_hometask\JS\JS_study\Lesson_10\task_1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,7 +76,7 @@
       <workItem from="1692183362997" duration="749000" />
       <workItem from="1692196484532" duration="336000" />
       <workItem from="1692197041397" duration="94374000" />
-      <workItem from="1694361135131" duration="40553000" />
+      <workItem from="1694361135131" duration="48667000" />
     </task>
     <task id="LOCAL-00001" summary="lesson1 done">
       <option name="closed" value="true" />
@@ -145,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694715959859</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lesson9 done">
+      <option name="closed" value="true" />
+      <created>1694949365149</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694949365149</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +185,7 @@
     <MESSAGE value="lesson6 done" />
     <MESSAGE value="lesson6 done+ rework problems" />
     <MESSAGE value="lesson8 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson8 done" />
+    <MESSAGE value="lesson9 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson9 done" />
   </component>
 </project>

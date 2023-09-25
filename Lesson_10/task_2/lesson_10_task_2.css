@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.counter{
+    height: 20vh;
+    width: 20vw;
+    border: blueviolet 1px solid;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#number{
+    font-size: 3em;
+}
