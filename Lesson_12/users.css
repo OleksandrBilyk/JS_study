@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+div{
+    height: 40vh;
+    width: 20vw;
+    margin: 20vh 40vw;
+    background-color: #76a876;
+}

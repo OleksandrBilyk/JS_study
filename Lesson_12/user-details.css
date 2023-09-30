@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+#info{
+    margin: 2vh 2vw;
+    height: 96vh;
+    max-width: 96vw;
+    display: grid;
+    background: lightgray;
+    border: dodgerblue 1px solid;
+    border-radius: 10px;
+    grid-template-areas:
+    "id id id"
+    "street lat name"
+;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 10px;
+}
+#id{
+    grid-area: id;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#street{
+    grid-area: street;
+}
+#name{
+    grid-area: name;
+}
+#lat{
+    grid-area: lat;
+}
