@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Mooli&family=Sofia+Sans+Condensed&family=Young+Serif&display=swap');
+body{
+    margin: 0;
+}
+#main{
+    margin: 0;
+    height: auto;
+    width: 100vw;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+}
+#post_info{
+    margin: 2vh 2vw;
+    height: 30vh;
+    max-width: 94vw;
+    display: grid;
+    background: bisque;
+    border: dodgerblue 1px solid;
+    border-radius: 10px;
+    grid-template-areas:
+    "title title"
+    "body body"
+    "userId id"
+;
+    grid-template-columns: 1fr 1fr ;
+    grid-template-rows: 4fr 6fr 1fr;
+    justify-content: center;
+}
+#post_info div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#post_info>#userId{
+    grid-area: userId;
+}
+#post_info>#id{
+    grid-area: id;
+}
+#post_info>#title{
+    grid-area: title;
+}
+#post_info>#body{
+     grid-area: body;
+ }
+#post_info p{
+    margin: 0 1vw 0 0;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 0.6em;
+}
+#post_info h3{
+    font-family: 'Young Serif', serif;
+    font-size: 0.6em;
+}
+#post_info>#title>h3{
+    margin: 0;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 1.8em;
+}
+
+#post_info>#body>h3{
+    margin: 0;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.4em;
+}
+#comment{
+    margin-left: 2vw;
+    height: auto;
+    max-width: 94vw;
+    background: white;
+    border: darkviolet 1px dashed;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#comment div{
+    margin: 0 1vw;
+    max-height: 50vh;
+    max-width: 21vw;
+    display: grid;
+    grid-template-areas:
+    "name"
+    "body"
+    "email"
+    "postId"
+    "id"
+;
+    grid-template-columns: 1fr;
+    grid-template-rows: 5fr 1fr 1fr 1fr 1fr;
+    grid-gap: 1vh;
+}
+#comment #postId{
+    grid-area: postId;
+}
+#comment #id{
+    grid-area: id;
+}
+#comment #name{
+    grid-area: name;
+    flex-direction: column;
+}
+#comment #email{
+    grid-area: email;
+}
+#comment #body{
+    grid-area: body;
+    flex-direction: column;
+}
+#comment div div{
+    height: min-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#comment p{
+    height: min-content;
+    margin: 0;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 0.6em;
+}
+#comment #body h3{
+    margin: 0;
+    font-family: 'Mooli', sans-serif;
+    font-size: 0.8em;
+}
+#comment #name h3{
+    margin: 0;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 0.6em;
+}
+#comment #email h3{
+    margin-left: 1vw;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    font-size: 1em;
+}
+#comment #id h3{
+    margin-left: 1vw;
+    font-family: 'Young Serif', serif;
+    font-size: 0.6em;
+}
+#comment #postId h3{
+    height: min-content;
+    margin-left: 1vw;
+    font-family: 'Young Serif', serif;
+    font-size: 0.6em;
+}

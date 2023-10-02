@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Mooli&family=Sofia+Sans+Condensed&family=Young+Serif&display=swap');
+
+body{
+    margin: 0;
+}
+#info{
+    margin: 2vh 2vw;
+    height: 50vh;
+    max-width: 96vw;
+    display: grid;
+    background: #f1f0f0;
+    border: dodgerblue 1px solid;
+    border-radius: 10px;
+    grid-template-areas:
+    "id id street lat name"
+    "post_button post_button post_button post_button post_button"
+;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 3fr 1fr;
+    justify-content: center;
+}
+#id{
+    grid-area: id;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#street{
+    grid-area: street;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#name{
+    grid-area: name;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#lat{
+    grid-area: lat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#post_button{
+    grid-area: post_button;
+    height: 10vh;
+    width: 86vw;
+    margin-left: 4vw;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1em;
+    background: linear-gradient(to bottom, #fdfdfd, #8d8d8d);
+    border-color: #0071c9;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 0.1em;
+
+}
+li{
+    font-size: 0.8em;
+    font-family: "Britannic Bold", sans-serif;
+}
+h3{
+    margin-top: 1vh;
+}
+ul{
+    margin: 0;
+}
+#div_post{
+    margin: -4vh 2vw;
+    padding: 2vh 1vw;
+    height: auto;
+    max-width: 96vw;
+    background: #f1f0f0;
+    border: dodgerblue 1px solid;
+    border-top: none;
+    border-radius: 0 0 10px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+#user_post{
+    margin-bottom: 1vh;
+    height: 20vh;
+    width: 18vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background: #e75a5a;
+    border: #1da10e 1px dotted;
+    border-radius: 15px;
+}
+#user_post button{
+    height: 4vh;
+    width: 8vw;
+    margin: 0 0 2vh;
+    font-family: 'Mooli', sans-serif;
+    font-size: 0.6em;
+    background: linear-gradient(to bottom, #d7a0a0, #d04d4d);
+    border-color: #ff03e8;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 0.1em;
+}
+#user_post p{
+    margin: 5px;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 1em;
+}
